@@ -2,6 +2,21 @@
 
 The project sought to determine the type of rhetoric used by presidential candidates in the U.S. based of tweets collected from Twitter api before 2021 elections.
 
+Libraries used:
+  - pickle
+  - pandas
+  - textblob
+  - nltk
+  - re
+  - sys
+  - tweepy
+  - matplotlib.pyplot
+  - numpy
+  - os
+  - pycountry
+  - re
+  - string
+
 # Project journey
 
 | Steps |
