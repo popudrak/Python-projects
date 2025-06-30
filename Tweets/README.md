@@ -4,7 +4,7 @@ The project sought to determine the type of rhetoric used by presidential candid
 
 # Project journey
 
-| Model Name |
+| Steps |
 |------------|
 | 1. Preprocessing
 | 2. Tokenization
