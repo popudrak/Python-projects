@@ -4,8 +4,8 @@ The project sought to determine the type of rhetoric used by presidential candid
 
 # Project journey
 
-| Model Name | Score |
-|------------|-------|
+| Model Name |
+|------------|
 | 1. Preprocessing
 | 2. Tokenization
 | 3. Stemantization, lemantization
